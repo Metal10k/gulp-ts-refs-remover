@@ -1,0 +1,11 @@
+{
+  "name": "gulp-ts-refs-remover",
+  "version": "0.1.0",
+  "description": "A simple gulp plugin for removing references from .d.ts generated files in a gulp pipeline.",
+  "main": "gulp-ts-refs-remover.js",
+  "scripts": {
+
+  },
+  "author": "",
+  "license": "ISC"
+}
